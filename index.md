@@ -22,9 +22,13 @@
 
 *Sept 2018 - Present*
 
+- Founded company with an patent portfolio worth an estimated $5 million
+
 - Patented a hand sanitation compliance enforcement systems and its methods
 
-- Principal embedded device designer and architect
+- Principal embedded device designer and prototype architect
+
+- Responsible for all investor and VC relationships.
 
 - Led R&D team in utilizing Computer Vision (CV), Machine Learning (ML), and Artifcial-Intelligence-As-A-Service (AIaaS) to build a IoT-based device that pioneers an Internet-of-Behavior (IoB) approach to hand sanitation compliance.
 
@@ -48,7 +52,7 @@
 
 ### **Manager Portals and Collaboration**
 
-*May 2014 - June 2016*
+*May 2014 - June 2017*
 
 - Responsible for all SaaS and internal portal and collaboration software.
 
@@ -84,6 +88,7 @@
 
 - Subject matter expert for all Microsoft on-premise and 365 products, including mutiple, global SharePoint farms
 
+---
 
 ## Sanford Corporation
 
@@ -136,3 +141,45 @@
 - Supported and configured handheld devices such as Blackberry, Smartphone, Pocket PCs, and Palm
 
 - Configured and installed SAP for a large number of users.
+
+---
+
+## PCNE Inc.., Darien, IL
+
+*July 2000 - June 2001*
+
+### Support Engineer
+
+- Member of, and later team- leader of, various PC roll outs.
+
+- Conducted backups, reformatted, imaged, and redeployed existing workstations
+
+- Setup and installed new workstations, configured Windows 2000, and restored data and printer settings 
+
+- Also setup domain properties, confirming WINS and DNS settings for connectivity.   
+
+- Assisted and trained technicians for Windows 2000 support and installation. 
+
+- Instructed and trained technicians on best practices for PC build and repair
+
+- Deployed Windows 2000 Professional using unattended network installations 
+
+- Complete web site project planning, execution, and administration 
+
+- Member a team of 5 in taking an inventory of about 100 workstations at the Executive Advocate Health Center in Chicago, Advocate Health Center in Oakbrook Terrace, Advocate health Center in Hyde Park, and Advocate Health Center in Schaumburg.  
+
+- Provided support for Windows 95/98/NT workstations as well as network support for all users
+
+- Setup and supported HP printers in a networked environment.
+
+- Used Intel LanDesk for workstation inventory and auditing. 
+
+---
+
+# Education and Technical Training
+
+## University of Illinois
+
+ (140 Credit Hours)
+
+## Microsoft Certified Systems Engineer 2000 (MCSE 2000) Early Achiever
