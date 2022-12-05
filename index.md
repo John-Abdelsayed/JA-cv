@@ -30,11 +30,9 @@
 
 - Led R&D team in utilizing Computer Vision (CV), Machine Learning (ML), and Artifcial-Intelligence-As-A-Service (AIaaS) to build a IoT-based device that pioneers an Internet-of-Behavior (IoB) approach to hand sanitation compliance.
 
-
-
 ---
 
-## Insightful Health 
+## Insightful Health
 
 ### **Co-Founder**
 
