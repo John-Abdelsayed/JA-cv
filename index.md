@@ -6,11 +6,11 @@
 
 *July 2017 - Present*
 
-- Founded company with > $2 million in yearly revenue.
+- Co-founded company with > $2 million in yearly revenue.
 
 - Lead all facets of corporate formation; legal, operations, sales, marketing, human resources, and technical implementations.
 
-- Spun off 2 separate companies with combined $20 million valuation.
+- Spun off 2 separate companies with combined $20 million valuation and strong Intelectual Property (IP) portfolio.
 
 - Responsible for all client, B2B, and C2C relationships.
 
@@ -22,17 +22,15 @@
 
 *Sept 2018 - Present*
 
-- Founded company with an patent portfolio worth an estimated $5 million
+- Founded company with a patent portfolio worth an estimated $5 million.
 
-- Patented a hand sanitation compliance enforcement systems and its methods
-
-- Principal embedded device designer and prototype architect
+- Patented a hand sanitation compliance enforcement systems and its methods.
 
 - Responsible for all investor and VC relationships.
 
 - Led R&D team in utilizing Computer Vision (CV), Machine Learning (ML), and Artifcial-Intelligence-As-A-Service (AIaaS) to build a IoT-based device that pioneers an Internet-of-Behavior (IoB) approach to hand sanitation compliance.
 
-- Responsible for licensing and monetization paths; including low vs high compliance and open source.
+
 
 ---
 
@@ -42,9 +40,13 @@
 
 *Jan 2020 - Present*
 
-- Raised $1 million in pre-seed funding through combined offering of common and preffered equity with super-voting rights.
+- Raised $1 million in pre-seed funding on a $10M valuation through combined offering of common and preffered equity with super-voting rights.
+
+- Principal embedded device designer and prototype architect.
 
 - Primary lead on all organization pitches.
+
+- Responsible for licensing and monetization paths; including low vs high compliance and open source.
 
 ---
 
@@ -152,34 +154,50 @@
 
 - Member of, and later team- leader of, various PC roll outs.
 
-- Conducted backups, reformatted, imaged, and redeployed existing workstations
+- Conducted backups, reformatted, imaged, and redeployed existing workstations.
 
-- Setup and installed new workstations, configured Windows 2000, and restored data and printer settings 
+- Setup and installed new workstations, configured Windows 2000, and restored data and printer settings.
 
-- Also setup domain properties, confirming WINS and DNS settings for connectivity.   
+- Also setup domain properties, confirming WINS and DNS settings for connectivity.
 
-- Assisted and trained technicians for Windows 2000 support and installation. 
+- Assisted and trained technicians for Windows 2000 support and installation.
 
-- Instructed and trained technicians on best practices for PC build and repair
+- Instructed and trained technicians on best practices for PC build and repair.
 
-- Deployed Windows 2000 Professional using unattended network installations 
+- Deployed Windows 2000 Professional using unattended network installations.
 
-- Complete web site project planning, execution, and administration 
+- Complete web site project planning, execution, and administration.
 
-- Member a team of 5 in taking an inventory of about 100 workstations at the Executive Advocate Health Center in Chicago, Advocate Health Center in Oakbrook Terrace, Advocate health Center in Hyde Park, and Advocate Health Center in Schaumburg.  
+- Member a team of 5 in taking an inventory of about 100 workstations at the Executive Advocate Health Center in Chicago, Advocate Health Center in Oakbrook Terrace, Advocate health Center in Hyde Park, and Advocate Health Center in Schaumburg.
 
 - Provided support for Windows 95/98/NT workstations as well as network support for all users
 
 - Setup and supported HP printers in a networked environment.
 
-- Used Intel LanDesk for workstation inventory and auditing. 
+- Used Intel LanDesk for workstation inventory and auditing.
 
 ---
 
-# Education and Technical Training
+## Local 134
+
+### Account Representative
+
+*June 1998 - June 2000*
+
+- Responsible for all employer contributions to Local 134 Electricians for health, disability, and pensions funds.
+
+- Supported digital transition from paper to electronic records keeping.
+
+---
+
+# Education and Certification
 
 ## University of Illinois
 
- (140 Credit Hours)
+### **Economics & Anthropology**
 
-## Microsoft Certified Systems Engineer 2000 (MCSE 2000) Early Achiever
+- 140 Credit Hours
+
+### **Microsoft Certified Systems Engineer (MCSE) **
+
+- Early Achiever
