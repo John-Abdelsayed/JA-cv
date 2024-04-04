@@ -1,201 +1,147 @@
-# John Marcus (Abdelsayed) Aziz
+## SUMMARY
 
-## Digital Tranformation Innovators Group (DTIG)
-
-### **Principal, Enterprise and Cloud Architect**
-
-*July 2017 - Present*
-
-- Co-founded company with > $2 million in yearly revenue.
-
-- Lead all facets of corporate formation; legal, operations, sales, marketing, human resources, and technical implementations.
-
-- Spun off 2 separate companies with combined $20 million valuation and strong Intelectual Property (IP) portfolio.
-
-- Responsible for all client, B2B, and C2C relationships.
+Seasoned co-founder with three successfully launched startups culminating in over $20 million worth of cumulative valuations. Notably recognized as an inventor holding multiple patents in fields such as automation, biometrics, and healthcare devices. Driven to leverage advanced technologies, including DevOps, CI/CD, ML, CV, AI, and IoT systems, to devise ingenious solutions translating into sizable financial wins.
 
 ---
+## EXPERIENCE
+### Digital Transformation Innovators Group (DTIG)
 
-## VisualQ
+| #### Co-Founder, Senior Enterprise Solutions Architect | #### 2017 - present |
+| ------------------------------------------------------ | ------------------- |
 
-### **Co-Founder**
+Spearheaded the development of Digital Transformation Innovators Group (DTIG), a thriving IT digital transformation services consulting firm, from its inception to reaching an average of $1 million in annual revenues within five years. Built and maintained a dedicated team comprising 5 full-time employees.
 
-*Sept 2018 - Present*
+- Successfully established two spin-off firms, boasting a combined valuation of approximately $15 million and bolstered by a strong intellectual property (IP) patent portfolio.
+- Fostered and nurtured enduring client, B2B, and C2C relationships, ultimately securing multi-year agreements with reputable partners such as Tahoe Partners and Improving Consulting.
+- Functioned as primary solutions and enterprise architect for all internal and external projects, employing on-premises, cloud, and hybrid environments dexterously.
+- Steered all aspects of corporate genesis, ranging from legalities, operations, sales, targeted marketing, meticulous human resource administration, to bespoke technical implementation processes.
 
-- Founded company with a patent portfolio worth an estimated $5 million.
+### VisualQ AI
 
-- Patented a hand sanitation compliance enforcement systems and its methods.
+| #### Co-Founder | #### 2019 - present |
+| --------------- | ------------------- |
 
-- Responsible for all investor and VC relationships.
+Established VisualQ, introducing a novel hand sanitation enforcement system backed by a curated patent portfolio currently evaluated at roughly $5 million. Spearheaded research and development efforts integrating Computer Vision (CV), Machine Learning (ML), and Artificial Intelligence-as-a-Service (AIaaS) to fabricate an IoT-enabled device embodying an avant-garde Internet-of-Behaviors (IoB) strategy towards hygiene regulation.
 
-- Led R&D team in utilizing Computer Vision (CV), Machine Learning (ML), and Artifcial-Intelligence-As-A-Service (AIaaS) to build a IoT-based device that pioneers an Internet-of-Behavior (IoB) approach to hand sanitation compliance.
+- Assumed responsibility for all licensing and commercialization channels, actively exploring new avenues for expansion and profit generation.
+- Managed all patent-related tasks, including prior art searches, drafting, submission, and ongoing tracking for existing assets, as well as envisioning forthcoming submissions and extensions.
 
----
+### Insightful Health
 
-## Insightful Health
+| #### Co-Founder | #### 2021 - present |
+| --------------- | ------------------- |
 
-### **Co-Founder**
+"Secured $1 million in pre-seed financing, propelling Insightful Health forward on a $10 million valuation thanks to a carefully balanced distribution of common and preferred shares equipped with super-voting privileges.
 
-*Jan 2020 - Present*
+- Engendered groundbreaking prototypes as principal embedded device designer, pushing boundaries and expanding horizons in pursuit of unprecedented ingenuity.
+- Disseminated institutional insights via open-source platforms, cultivating community buy-in and accelerating widespread adoption of developed frameworks.
 
-- Raised $1 million in pre-seed funding on a $10M valuation through combined offering of common and preffered equity with super-voting rights.
+### Corporation Services Company (CSC)
 
-- Principal embedded device designer and prototype architect.
+| #### Manager, Collaboration and Portals | #### 2014 - 2017 |
+| --------------------------------------- | ---------------- |
 
-- Primary lead on all organization pitches.
+Responsible for all SaaS and internal portal and collaboration software. Grew team from 1 to 12 using roadmaps, budgeting, and predictive ROI justification for leadership.
 
-- Responsible for licensing and monetization paths; including low vs high compliance and open source.
+- Subject matter expert for all Microsoft on-premises and 365 products, including multiple, global SharePoint farms.
+### Ruby Technology Group (RTG)
 
----
-
-## Corporation Service Company (CSC)
-
-### **Manager Portals and Collaboration**
-
-*May 2014 - June 2017*
+| #### Senior SharePoint Architect | #### 2010 - 2014 |
+| -------------------------------- | ---------------- |
 
 - Responsible for all SaaS and internal portal and collaboration software.
-
 - Grew team from 1 to 12 using roadmaps, budgeting, and predictive ROI justification for leadership.
-
 - Subject matter expert for all Microsoft on-premise and 365 products, including mutiple, global SharePoint farms
 
----
+### Business Computing Elements
 
-## Ruby Technology Group (RTG)
-
-### **Senior SharePoint and Solutions Architect**
-
-*Jan 2010 - May 2014*
-
-- Responsible for all SaaS and internal portal and collaboration software.
-
-- Grew team from 1 to 12 using roadmaps, budgeting, and predictive ROI justification for leadership.
-
-- Subject matter expert for all Microsoft on-premise and 365 products, including mutiple, global SharePoint farms
-
----
-
-## Navint Partners/Tribridge Consulting
-
-### **SharePoint and Solutions Architect**
-
-*May 2008 - Dec 2009*
-
-- Responsible for all SaaS and internal portal and collaboration software.
-
-- Grew team from 1 to 12 using roadmaps, budgeting, and predictive ROI justification for leadership.
-
-- Subject matter expert for all Microsoft on-premise and 365 products, including mutiple, global SharePoint farms
+| #### Microsoft Systems Consultant | #### 06/02-2010 |
+| --------------------------------- | --------------- |
+- Led a team of 12 IT professionals, overseeing all core IT responsibilities and delivering exceptional results to clients.
+- Spearheaded the deployment and configuration of Windows 2000 and 2003 Domain environments for numerous small companies, ensuring seamless integration and optimization.
+- Successfully managed large-scale IT projects, including a >1000 PC rollout for a non-profit client, and provided comprehensive Windows 2000 & XP Professional and 2000 & 2003 Server Setup and Support.
+- Demonstrated expertise in deploying and configuring Exchange 2000/2003 with SPAM filtering, Active Directory schemes, and group policy for varying security groups.
+- Developed and implemented robust backup plans for data redundancy, ensuring business continuity and minimal downtime.
+- Directed and assisted crews for the physical replacement of machines, exemplifying strong leadership and project management skills.
+- Cultivated strong relationships with customers and vendors, ensuring high levels of satisfaction and loyalty.
+- Played a crucial role in achieving Microsoft Certified Partner status, as well as partnering with leading technology brands such as 3COM, HP, Compaq, and Intel.
+- Devised and executed innovative marketing and advertising campaigns, aligning strategic partnerships to secure major projects and meet RFP requirements.
+- Exhibited excellent communication and training skills, educating technical and non-technical staff in various technologies and fostering a culture of continuous learning and improvement.
 
 ---
+### Sanford Corporation
 
-## Sanford Corporation
+| #### IT/SharePoint Administrator | #### 06/02-2010 |
+| -------------------------------- | --------------- |
+- Spearheaded the conversion of the company intranet to a SharePoint Portal-driven site with a SQL backend, improving collaboration and data accessibility across departments.
+- Developed and implemented a comprehensive intranet governance plan, resulting in increased user adoption and engagement.
+- Collaborated with department heads to identify and implement customized SharePoint solutions, streamlining workflows and enhancing productivity.
+- Led training sessions for employees and managers on SharePoint best practices and functionality, promoting user adoption and proficiency.
+- Contributed to the creation of a centralized knowledge base, providing easy access to critical information and reducing redundancy.
 
-### **SharePoint Administrator**
+| Support Engineer |
+| ---------------- |
+- Led the support team in resolving over 2000 cases annually, consistently meeting or exceeding service level agreements.
+- Mentored junior analysts and engineers, sharing knowledge and expertise to enhance team performance and efficiency.
+- Coordinated with vendors, corporate management, and cross-functional teams to resolve complex IT issues and improve overall service delivery.
+- Developed and implemented proactive monitoring and reporting processes, resulting in improved incident response times and reduced downtime.
+- Designed and delivered training programs for end-users, equipping them with the skills to effectively utilize IT systems and applications.
+- Played a key role in the implementation and support of critical business systems, including Oracle Sales Analyzer and SAP.
 
-*June 2002 - May 2007*
+---  
+#### PCNE Inc
 
-- Converted the intranet site to a MS SharePoint-driven site
+| Support Engineer | 07/00-06/01 |
+| ---------------- | ----------- |
+- Led multiple PC rollouts, including acting as team leader, ensuring successful deployment and configuration of workstations.
+- Trained and supervised technicians in Windows 2000 support and installation, as well as best practices for PC build and repair.
+- Coordinated and executed large-scale IT projects, including website development and maintenance, and workstation inventory management.
+- Demonstrated expertise in networking and system deployment, including configuring domain properties and setting up unattended network installations.
+- Managed and maintained high-quality printer infrastructure across multiple locations.
+- Utilized asset management tools to efficiently track and monitor workstation inventory.
 
-- Created over 60 MS SharePoint Team Sites for intra-departmental and inter-departmental collaboration
+---
+## APPLICATION STACKS
 
-- Customized SharePoint Team Services sites using combination of MS SharePoint Designer and MS FrontPage
+A full list of applications can be found at [_**https://cv.johnmarcusaziz.com**_](https://cv.johnmarcusaziz.com)
 
-- Helped in identifying product specifications for departments in order maintain data integrity including SharePoint document version-control
+|                                |                                |                               |                                    |                                   |
+| ------------------------------ | ------------------------------ | ----------------------------- | ---------------------------------- | --------------------------------- |
+|                                | Machine Learning/Deep Learning | Computer Vision &             | Orchestration                      | Open-Source Frameworks            |
+| Automation & RPA               | Embedded Device                | AI                            | Hardware                           | Data Lakes & Warehousing          |
+| Data Integration/Observability | BI Platforms & Visualization   | MLOps & Infrastructure        | Software Deployment and Production | Waterfall/Agile/SCRUM/CMMI/DevOps |
+| Data Analysis                  | DataOps                        | Cloud & Hybrid Infrastructure | Compliance & Governance            |                                   |
 
-- Member of a center that provides helpful learning tools for users and managers
+---  
+## PATENTS & AWARDS  
 
-- Helped organize cellular data into one central location to help ease manager reporting
+### Patents
+- US17/067,172
+- US17/236,202
+- US11017655B2
 
-- Involved in a team that managed Nextel, T-Mobile, Sprint, and Verizon usage and billing data
+### Awards
 
-### **Help Desk Analyst/Support Engineer**
-
-- Administered sales, customer portals, intranet (asp/vbscript), and Microsoft SharePoint Portal/ Team services
-
-- Consistently the top case closer, closing an average of about 2000 cases annually
-
-- Documented, tracked and monitored problems to ensure timely resolution has been reached
-
-- Troubleshoot and configured Citrix client and web installations
-
-- Supported remote issues that dealt with VPN, wireless, DNS, router, and ISP
-
-- Assisted with Oracle Sales Analyzer by doing Oracle backups and recovery, client setup and training
-
-- Utilized VNC, PC Anywhere, Dame Ware, and remote desktop to support the Executive, Sales, Marketing, R&D, Customer Service, HR, and Legal departments
-
-- Resolved IT issues and escalated to vendor, corporate, and Sanford management
-
-- Instructed users/mangers on best practices with Microsoft applications and propriety applications
-
-- Supported video conferencing systems in coordination with regional technical resources
-
-- Compiled reports and communicated system status and performance metrics to IT management
-
-- Supported and maintained user account information including rights, security, system/distribution groups
-
-- Performed MS Exchange 2000/2003 maintenance
-
-- Supported and configured handheld devices such as Blackberry, Smartphone, Pocket PCs, and Palm
-
-- Configured and installed SAP for a large number of users.
+- MHUB Venture Challenge Award Winner – 2020
 
 ---
 
-## PCNE Inc.., Darien, IL
-
-*July 2000 - June 2001*
-
-### Support Engineer
-
-- Member of, and later team- leader of, various PC roll outs.
-
-- Conducted backups, reformatted, imaged, and redeployed existing workstations.
-
-- Setup and installed new workstations, configured Windows 2000, and restored data and printer settings.
-
-- Also setup domain properties, confirming WINS and DNS settings for connectivity.
-
-- Assisted and trained technicians for Windows 2000 support and installation.
-
-- Instructed and trained technicians on best practices for PC build and repair.
-
-- Deployed Windows 2000 Professional using unattended network installations.
-
-- Complete web site project planning, execution, and administration.
-
-- Member a team of 5 in taking an inventory of about 100 workstations at the Executive Advocate Health Center in Chicago, Advocate Health Center in Oakbrook Terrace, Advocate health Center in Hyde Park, and Advocate Health Center in Schaumburg.
-
-- Provided support for Windows 95/98/NT workstations as well as network support for all users
-
-- Setup and supported HP printers in a networked environment.
-
-- Used Intel LanDesk for workstation inventory and auditing.
-
 ---
+## EDUCATION & CERTIFICATIONS
 
-## Local 134
+### Education
 
-### Account Representative
+University of Illinois
 
-*June 1998 - June 2000*
+- Economics & Anthropology (140 Hours)  
 
-- Responsible for all employer contributions to Local 134 Electricians for health, disability, and pensions funds.
+_**Certifications**_
 
-- Supported digital transition from paper to electronic records keeping.
-
----
-
-# Education and Certification
-
-## University of Illinois
-
-### **Economics & Anthropology**
-
-- 140 Credit Hours
-
-### **Microsoft Certified Systems Engineer (MCSE) **
+Microsoft Certified Systems Engineer (MCSE)
 
 - Early Achiever
+
+---
+## REFERENCES
+
+Furnished upon request.
