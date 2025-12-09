@@ -1,9 +1,54 @@
+# TECHNICAL CV
+
 ## SUMMARY
 
-Seasoned co-founder with three successfully launched startups culminating in over $20 million worth of cumulative valuations. Notably recognized as an inventor holding multiple patents in fields such as automation, biometrics, and healthcare devices. Driven to leverage advanced technologies, including DevOps, CI/CD, ML, CV, AI, and IoT systems, to devise ingenious solutions translating into sizable financial wins.
+Seasoned co-founder with three successfully launched startups culminating in $20 million worth of cumulative valuations. Notably recognized as an inventor holding multiple patents in fields such as automation, biometrics, and healthcare devices. Driven to leverage advanced technologies, including DevOps, CI/CD, ML, CV, AI, and IoT systems, to devise ingenious solutions translating into sizable financial wins.
 
 ---
-## EXPERIENCE
+
+## PATENTS & AWARDS
+
+### Patents
+
+- US17/067,172
+- US17/236,202
+- US11017655B2
+
+### Awards
+
+- MHUB Venture Challenge Award Winner – 2020
+
+---
+
+## EDUCATION & CERTIFICATIONS
+
+### Education
+
+#### University of Illinois
+
+- Economics & Anthropology (140 Hours)
+
+#### Harper Community College
+
+_**Certifications**_
+
+Microsoft Certified Systems Engineer (MCSE) - 1999 Early Achiever
+
+---
+
+## APPLICATION STACKS
+
+|                                |                                |                               |                                    |                                   |
+| ------------------------------ | ------------------------------ | ----------------------------- | ---------------------------------- | --------------------------------- |
+|                                | Machine Learning/Deep Learning | Computer Vision &             | Orchestration                      | Open-Source Frameworks            |
+| Automation & RPA               | Embedded Device                | AI                            | Hardware                           | Data Lakes & Warehousing          |
+| Data Integration/Observability | BI Platforms & Visualization   | MLOps & Infrastructure        | Software Deployment and Production | Waterfall/Agile/SCRUM/CMMI/DevOps |
+| Data Analysis                  | DataOps                        | Cloud & Hybrid Infrastructure | Compliance & Governance            |                                   |
+
+---
+
+## PROFESSIONAL EXPERIENCE
+
 ### Digital Transformation Innovators Group (DTIG)
 
 | #### Co-Founder, Senior Enterprise Solutions Architect | #### 2017 - present |
@@ -44,6 +89,7 @@ Established VisualQ, introducing a novel hand sanitation enforcement system back
 Responsible for all SaaS and internal portal and collaboration software. Grew team from 1 to 12 using roadmaps, budgeting, and predictive ROI justification for leadership.
 
 - Subject matter expert for all Microsoft on-premises and 365 products, including multiple, global SharePoint farms.
+
 ### Ruby Technology Group (RTG)
 
 | #### Senior SharePoint Architect | #### 2010 - 2014 |
@@ -53,10 +99,11 @@ Responsible for all SaaS and internal portal and collaboration software. Grew te
 - Grew team from 1 to 12 using roadmaps, budgeting, and predictive ROI justification for leadership.
 - Subject matter expert for all Microsoft on-premise and 365 products, including mutiple, global SharePoint farms
 
-### Business Computing Elements
+### Business Computing Elements (BCE)
 
-| #### Microsoft Systems Consultant | #### 06/02-2010 |
-| --------------------------------- | --------------- |
+| #### Microsoft Systems Consultant | #### 2002-2010 |
+| --------------------------------- | -------------- |
+
 - Led a team of 12 IT professionals, overseeing all core IT responsibilities and delivering exceptional results to clients.
 - Spearheaded the deployment and configuration of Windows 2000 and 2003 Domain environments for numerous small companies, ensuring seamless integration and optimization.
 - Successfully managed large-scale IT projects, including a >1000 PC rollout for a non-profit client, and provided comprehensive Windows 2000 & XP Professional and 2000 & 2003 Server Setup and Support.
@@ -69,18 +116,21 @@ Responsible for all SaaS and internal portal and collaboration software. Grew te
 - Exhibited excellent communication and training skills, educating technical and non-technical staff in various technologies and fostering a culture of continuous learning and improvement.
 
 ---
+
 ### Sanford Corporation
 
-| #### IT/SharePoint Administrator | #### 06/02-2010 |
-| -------------------------------- | --------------- |
+| #### IT/SharePoint Administrator | #### 2008-2010 |
+| -------------------------------- | -------------- |
+
 - Spearheaded the conversion of the company intranet to a SharePoint Portal-driven site with a SQL backend, improving collaboration and data accessibility across departments.
 - Developed and implemented a comprehensive intranet governance plan, resulting in increased user adoption and engagement.
 - Collaborated with department heads to identify and implement customized SharePoint solutions, streamlining workflows and enhancing productivity.
 - Led training sessions for employees and managers on SharePoint best practices and functionality, promoting user adoption and proficiency.
 - Contributed to the creation of a centralized knowledge base, providing easy access to critical information and reducing redundancy.
 
-| Support Engineer |
+| Systems Engineer |
 | ---------------- |
+
 - Led the support team in resolving over 2000 cases annually, consistently meeting or exceeding service level agreements.
 - Mentored junior analysts and engineers, sharing knowledge and expertise to enhance team performance and efficiency.
 - Coordinated with vendors, corporate management, and cross-functional teams to resolve complex IT issues and improve overall service delivery.
@@ -88,11 +138,13 @@ Responsible for all SaaS and internal portal and collaboration software. Grew te
 - Designed and delivered training programs for end-users, equipping them with the skills to effectively utilize IT systems and applications.
 - Played a key role in the implementation and support of critical business systems, including Oracle Sales Analyzer and SAP.
 
----  
-#### PCNE Inc
+---
+
+### PCNE Inc
 
 | Support Engineer | 07/00-06/01 |
 | ---------------- | ----------- |
+
 - Led multiple PC rollouts, including acting as team leader, ensuring successful deployment and configuration of workstations.
 - Trained and supervised technicians in Windows 2000 support and installation, as well as best practices for PC build and repair.
 - Coordinated and executed large-scale IT projects, including website development and maintenance, and workstation inventory management.
@@ -101,47 +153,18 @@ Responsible for all SaaS and internal portal and collaboration software. Grew te
 - Utilized asset management tools to efficiently track and monitor workstation inventory.
 
 ---
-## APPLICATION STACKS
 
-A full list of applications can be found at [_**https://cv.johnmarcusaziz.com**_](https://cv.johnmarcusaziz.com)
+### Electrical Insurance Trustees (EIT)
 
-|                                |                                |                               |                                    |                                   |
-| ------------------------------ | ------------------------------ | ----------------------------- | ---------------------------------- | --------------------------------- |
-|                                | Machine Learning/Deep Learning | Computer Vision &             | Orchestration                      | Open-Source Frameworks            |
-| Automation & RPA               | Embedded Device                | AI                            | Hardware                           | Data Lakes & Warehousing          |
-| Data Integration/Observability | BI Platforms & Visualization   | MLOps & Infrastructure        | Software Deployment and Production | Waterfall/Agile/SCRUM/CMMI/DevOps |
-| Data Analysis                  | DataOps                        | Cloud & Hybrid Infrastructure | Compliance & Governance            |                                   |
+| Benefits/Pensions Administrator | 07/97-06/99 |
+| ---------------- | ----------- |
 
----  
-## PATENTS & AWARDS  
-
-### Patents
-- US17/067,172
-- US17/236,202
-- US11017655B2
-
-### Awards
-
-- MHUB Venture Challenge Award Winner – 2020
+- Executed the BLOB project, an initiative to digitize all union members ledgers into a .NET application going back more than 50 years.
+- Played a key role in UAT for electronic records keeping and ingress for Local 134 laborers and pensioners.
+- Calculated employer rate for Local 134 members including those of unemployment insurance, social security, medical and drug benefits.
 
 ---
 
----
-## EDUCATION & CERTIFICATIONS
-
-### Education
-
-University of Illinois
-
-- Economics & Anthropology (140 Hours)  
-
-_**Certifications**_
-
-Microsoft Certified Systems Engineer (MCSE)
-
-- Early Achiever
-
----
 ## REFERENCES
 
 Furnished upon request.
