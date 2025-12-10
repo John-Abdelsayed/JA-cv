@@ -2,7 +2,7 @@
 
 ## SUMMARY
 
-Seasoned co-founder with three successfully launched startups culminating in $20 million worth of cumulative valuations. Notably recognized as an inventor holding multiple patents in fields such as automation, biometrics, and healthcare devices. Driven to leverage advanced technologies, including DevOps, CI/CD, ML, CV, AI, and IoT systems, to devise ingenious solutions translating into sizable financial wins.
+Innovative **Enterprise Solutions Architect** and **Co-Founder** with 20+ years of experience driving digital transformation, AI/ML innovation, and enterprise IT solutions. Proven track record in founding and scaling tech ventures, securing funding, and leading cross-functional teams. Adept at architecting cloud, on-prem, and hybrid environments, with deep expertise in SaaS, Managament Systemts, and IoT/AI integration.
 
 ---
 
@@ -17,22 +17,6 @@ Seasoned co-founder with three successfully launched startups culminating in $20
 ### Awards
 
 - MHUB Venture Challenge Award Winner – 2020
-
----
-
-## EDUCATION & CERTIFICATIONS
-
-### Education
-
-#### University of Illinois
-
-- Economics & Anthropology (140 Hours)
-
-#### Harper Community College
-
-_**Certifications**_
-
-Microsoft Certified Systems Engineer (MCSE) - 1999 Early Achiever
 
 ---
 
@@ -106,25 +90,32 @@ Innovative **Enterprise Solutions Architect** and **Co-Founder** with 20+ years 
 - **Developed marketing campaigns** and trained staff, aligning IT with business goals.
 
 ### Sanford Corporation
+
 **IT/SharePoint Administrator & Systems Engineer** | 2008–2010
+
 - **Migrated intranet to SharePoint**, improving collaboration and data accessibility.
 - **Implemented governance plans**, increasing user adoption and engagement.
 - **Led support team**, resolving 2000+ cases annually and mentoring junior staff.
 - **Supported Oracle Sales Analyzer and SAP**, ensuring business continuity.
 
 ### PCNE Inc
+
 **Support Engineer** | 2000–2001
+
 - **Led PC rollouts and workstation deployments**, training technicians in Windows 2000 support.
 - **Managed printer infrastructure and asset tracking** across multiple locations.
 
 ### Electrical Insurance Trustees (EIT)
+
 **Benefits/Pensions Administrator** | 1997–1999
+
 - **Digitized 50+ years of union member ledgers** into a .NET application (BLOB project).
 - **Conducted UAT for electronic records** and calculated employer rates for Local 134 members.
 
 ---
 
 ## Technical Skills
+
 - **Enterprise Architecture**: Cloud, On-Prem, Hybrid, SaaS, SharePoint, Microsoft 365
 - **AI/ML & IoT**: Computer Vision, AIaaS, IoB, Embedded Systems
 - **Project Management**: Team Scaling, Budgeting, ROI Analysis, Vendor Relations
@@ -132,6 +123,20 @@ Innovative **Enterprise Solutions Architect** and **Co-Founder** with 20+ years 
 - **Business Development**: Funding, Valuation, Partnerships, Marketing
 
 ---
+
+## EDUCATION & CERTIFICATIONS
+
+### Education
+
+#### University of Illinois
+
+- Economics & Anthropology (140 Hours)
+
+#### Harper Community College
+
+_**Certifications**_
+
+Microsoft Certified Systems Engineer (MCSE) - 1999 Early Achiever
 
 ---
 
